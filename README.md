@@ -34,7 +34,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-MirJasir-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_Mir_Jasir)](https://twitter.com/_Mir_Jasir)
-[![Linkedin Badge](https://img.shields.io/badge/-MirJasir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/mir-jasir-ba055b285)](linkedin.com/in/mir-jasir-ba055b285)
+[![Linkedin Badge](https://img.shields.io/badge/-MirJasir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mir-jasir-ba055b285)](https://linkedin.com/in/mir-jasir-ba055b285)
 [![Gmail Badge](https://img.shields.io/badge/Mirjasir12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mirjasir12@gmail.com)](mailto:mirjasir12@gmail.com)
 </div>
 
