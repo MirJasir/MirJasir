@@ -8,7 +8,7 @@
 
 ---
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3 align="left"> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -20,21 +20,16 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-<h3> 📌 &nbsp;My Stats</h3>
+  
+<h3 align="left"> 📌 &nbsp;My Stats</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirjasir&" alt="mirjasir" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirjasir&show_icons=true&locale=en&layout=compact" alt="mirjasir" /></p>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirjasir&show_icons=true&locale=en&layout=compact" alt="mirjasir" /></p>  
 
 ---
 
-<div align="center">
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-MirJasir-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_Mir_Jasir)](https://twitter.com/_Mir_Jasir)
 [![Linkedin Badge](https://img.shields.io/badge/-MirJasir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mir-jasir-ba055b285)](https://linkedin.com/in/mir-jasir-ba055b285)
 [![Gmail Badge](https://img.shields.io/badge/Mirjasir12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mirjasir12@gmail.com)](mailto:mirjasir12@gmail.com)
-</div>
-
