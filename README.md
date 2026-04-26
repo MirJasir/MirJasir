@@ -13,8 +13,8 @@
 
 **Geospatial**
 
-![ArcGIS Pro](https://img.shields.io/badge/-ArcGIS%20Pro-333333?style=flat&logo=esri&logoColor=2C7AC3)
 ![QGIS](https://img.shields.io/badge/-QGIS-333333?style=flat&logo=qgis&logoColor=589632)
+![ArcMap](https://img.shields.io/badge/-ArcMap%2010.8-333333?style=flat&logo=esri&logoColor=2C7AC3)
 ![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-333333?style=flat&logo=google&logoColor=4285F4)
 ![Remote Sensing](https://img.shields.io/badge/-Remote%20Sensing-333333?style=flat)
 
