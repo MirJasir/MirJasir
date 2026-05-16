@@ -1,13 +1,10 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2d6a4f&height=200&section=header&text=Data%20Science%20%7C%20AI%20%7C%20Geo-Informatics%20(GIS)&fontSize=26&fontColor=ffffff&fontAlignY=55&desc=Where%20Every%20Point%20Has%20a%20Place&descAlignY=75&descSize=14&descColor=a8d8b9)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2d6a4f&height=200&section=header&text=Geospatial%20Analytics%20%7C%20Remote%20Sensing%20%7C%20Data%20Analysis&fontSize=22&fontColor=ffffff&fontAlignY=50&desc=Where%20Every%20Point%20Has%20a%20Place&descAlignY=72&descSize=14&descColor=a8d8b9)
 
 # Mir Jasir
-#### *Data Scientist | AI & Geo-Informatics | Committed to building scalable, data-driven solutions*
 
 </div>
-
----
 
 ### 🛠 Tech Stack
 
@@ -18,7 +15,7 @@
 ![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-333333?style=flat&logo=google&logoColor=4285F4)
 ![Remote Sensing](https://img.shields.io/badge/-Remote%20Sensing-333333?style=flat)
 
-**Data Science & AI**
+**Data Analysis**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy&logoColor=013243)
